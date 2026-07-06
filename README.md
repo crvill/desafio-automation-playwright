@@ -1,6 +1,6 @@
-# Playwright OpenCart Enterprise Framework v2
+# Playwright framework using TypeScript
 
-Framework de automatización E2E para OpenCart usando **Playwright + TypeScript**.
+Framework de automatización E2E usando **Playwright + TypeScript**.
 
 ## Flujos incluidos
 
